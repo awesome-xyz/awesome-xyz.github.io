@@ -1,1 +1,1 @@
-# 🌐 [awesome-xyz.github.io](awesome-xyz.github.io)
+# 🪙 [awesome-crypto](https://github.com/awesome-xyz/awesome-crypto)
